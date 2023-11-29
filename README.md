@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ENERCOLSiS
 - 👀 I’m interested in developing WEB Apps and software for engineering and clean energy applications
-- 🌱 I’m currently learning Kubernetes, TypeScript, and ReactJS 
-- 💞️ I’m looking to collaborate on projects related to WEB apps, Data Analaysis, IA and Energy Systems 
+- 🌱 I’m currently learning machine vision systems, ASP.net for Industrial Automation Systems 
+- 💞️ I’m looking to collaborate on projects related to WEB apps, Data Analaysis, Industrial Automation and Energy Systems 
 - 📫 You could contact me at orma@engineer.com or check my web site www.progsoft.com.co
